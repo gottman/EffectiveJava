@@ -1,4 +1,4 @@
-package com.countcombo.effectivejava.chaptertwo.itemone;
+package com.countcombo.effectivejava.chapter2.item1;
 
 import java.util.Objects;
 
